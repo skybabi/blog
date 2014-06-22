@@ -9,11 +9,12 @@ tags:
     不能三言两语讲清晰
     反正一哭一笑都因为你
     我的一字一句不必怀疑
-##没有了你，世界再美，我始终如一
+##<没有了你，世界再美，我始终如一>
        永恒是由每个当下组成的
        或者说
        根本没有永恒
        当你拥有的时候
        你就已经失去了
-#    when you feel happiness ,you are in the paradise !
+#    \  forever memory \
+#                    skybabi
 

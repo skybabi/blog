@@ -86,5 +86,6 @@ exclude_generator:
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: github
-  repo: http://github.com/skybabi/skybabi.github.io.git
+  type: git
+  repo:   
+    github: http://github.com/skybabi/skybabi.github.io.git
