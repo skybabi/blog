@@ -1,0 +1,17 @@
+menu:
+  #Archives: /archives
+  友情链接: http://ptbsare.org
+关于我: /aboutme
+rss: /atom.xml
+# description: 爱好摄影、音乐和书籍，尤其喜爱邓紫棋。擅长发呆．
+social:
+  weibo: http://weibo.com/u/3784275920
+  github: https://github.com/skybabi/skybabi.github.io.git
+  
+
+page_comment: false
+logo: /images/logo2.jpg
+background:
+  cover: /images/background-cover.jpg
+  color: cover-purple
+

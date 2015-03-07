@@ -3,10 +3,10 @@
 ## Source: https://github.com/tommy351/hexo/
 
 # Site
-title: Skybabi's Blog
+title: Skybabi
 subtitle:
-description:
-author: Skybabi
+description: 各自独立，而心在一起；各自呼吸，而爱不分离．
+author: skybabi
 email:
 language:
 
@@ -35,6 +35,7 @@ multi_thread: true
 filename_case: 0
 render_drafts: false
 post_asset_folder: false
+relative_link: false
 highlight:
   enable: true
   line_number: true
@@ -80,12 +81,15 @@ disqus_shortname:
 # Extensions
 ## Plugins: https://github.com/tommy351/hexo/wiki/Plugins
 ## Themes: https://github.com/tommy351/hexo/wiki/Themes
-theme: landscape
+theme: vno
 exclude_generator:
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  repo:   
-    github: http://github.com/skybabi/skybabi.github.io.git
+deploy: 
+- type: github
+  repo: https://github.com/skybabi/skybabi.github.io.git
+- type: github
+  repo: https://gitcafe.com/skybabi/skybabi.git
+  
+

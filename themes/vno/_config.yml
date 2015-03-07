@@ -1,0 +1,15 @@
+menu:
+  #Archives: /archives
+  友情链接: http://ptbsare.org
+  about:   /about 
+rss: /atom.xml
+social:
+  weibo: http://weibo.com/u/3784275920
+  github: https://github.com/skybabi/skybabi.github.io.git
+
+
+logo: /images/logo2.jpg
+background:
+  cover: /images/background-cover.jpg
+  color: cover-purple
+
